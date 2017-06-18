@@ -1,0 +1,13 @@
+{
+  "name": "mongodb-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "rt",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.28",
+    "mongoose": "^4.10.4",
+    "standard": "^10.0.2"
+  }
+}

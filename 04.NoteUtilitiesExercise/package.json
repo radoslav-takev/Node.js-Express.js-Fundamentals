@@ -1,0 +1,17 @@
+{
+  "name": "utilities",
+  "version": "0.0.1",
+  "description": "utilities",
+  "main": "index.js",
+  "keywords": [
+    "utility"
+  ],
+  "author": "rt",
+  "license": "MIT",
+   "dependencies": {
+    "formidable": "1.1.1",
+    "mustache": "2.3.0",
+    "shortid": "2.2.8",
+    "standard": "10.0.2"
+   }
+}
